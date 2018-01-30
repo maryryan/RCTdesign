@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515529950044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "97|28|179|0|\n180|49|207|0|\n208|57|289|0|\n",
+    "hash" : "0",
+    "id" : "85FB4B",
+    "lastKnownWriteTime" : 1517331496,
+    "last_content_update" : 1517331496270,
+    "path" : "~/Desktop/Grad school/Dan Research/RCTdesign/RCTdesign_simulations.R",
+    "project_path" : "RCTdesign_simulations.R",
+    "properties" : {
+        "cursorPosition" : "372,0",
+        "scrollLine" : "348",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
